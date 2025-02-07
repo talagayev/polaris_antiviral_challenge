@@ -8,4 +8,3 @@ preliminary results
 - input morgan FP calculated based on SMILES
 - trained on the "SARS-CoV-2-MPro_fluorescence-dose-response_weizmann: pIC50 (log10M)" values
 - final prediction run with 100 forward passes that were then averaged for the final result
-- !!! prelimenary !!! no model tuning yet
