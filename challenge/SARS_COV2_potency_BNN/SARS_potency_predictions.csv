@@ -1,0 +1,298 @@
+,SMILES,MorganFP,predicted_mean,predicted_std,predicted_lower,predicted_upper
+0,C=CC(=O)NC1=CC=CC(N(CC2=CC=CC(Cl)=C2)C(=O)CC2=CN=CC3=CC=CC=C23)=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506260>,4.998152,0.26969782,4.469544,5.5267596
+1,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=C(C=CC(F)=C2)C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506490>,6.4788966,0.2592462,5.970774,6.987019
+2,"CNC(=O)CN1C[C@]2(CCN(C3=CN=CC4=CC=C(OC[C@H](O)CN(C)C)C=C34)C2=O)C2=CC(Cl)=CC=C2C1=O |&1:7,&2:21|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506420>,6.154323,0.51051575,5.1537123,7.154934
+3,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506500>,5.56294,0.20625079,5.1586885,5.9671917
+4,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506570>,6.448747,0.22431345,6.009093,6.8884015
+5,"CNC(=O)CN1C[C@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@H]2CC2CC2)C2=CC(Cl)=CC=C2C1=O |o1:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5065e0>,5.786942,0.26469594,5.268138,6.305746
+6,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC(=O)NCC1=CC=NN1C)C(=O)C1=CC=C(Cl)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5066c0>,6.59913,0.30597648,5.9994164,7.198844
+7,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC(=O)NCC1=NN(C)C=C1)C(=O)C1=CC=C(Cl)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506730>,6.523,0.31424692,5.907076,7.1389236
+8,CO[C@@H](C)CN1C[C@H](C(=O)NC2=CN=CC3=CC=CC=C23)C2=CC(Cl)=CC=C2C1=O |o1:7|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5067a0>,6.9219804,0.31004417,6.314294,7.529667
+9,CN[C@H](C)CN1C[C@H](C(=O)NC2=CN=CC3=CC=CC=C23)C2=CC(Cl)=CC=C2C1=O |&1:7|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506810>,6.752878,0.28816143,6.1880817,7.3176746
+10,CN1C(=O)C2=CC=C(Cl)C=C2[C@]12CCCN(C1=CN=CC3=CC=CC=C13)C2=O |&1:11|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506880>,5.310632,0.26483747,4.7915506,5.829714
+11,CCNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5068f0>,6.873755,0.25835282,6.3673835,7.3801265
+12,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC(=O)NCC1CC1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506960>,6.6700926,0.272313,6.136359,7.203826
+13,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC(=O)NCC1(F)CC1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5069d0>,6.773039,0.35130203,6.084487,7.461591
+14,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC(=O)NC1CCC1)C(=O)C1=CC=C(Cl)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506a40>,6.737562,0.30183426,6.145967,7.3291574
+15,CCNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506ab0>,6.9006963,0.2728602,6.3658905,7.435502
+16,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CN2C=CN=N2)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506b20>,5.913432,0.44411197,5.0429726,6.7838917
+17,CNC(=O)C1(N2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(F)=CC=C3C2=O)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506b90>,7.914843,0.35526967,7.2185144,8.611172
+18,CC1CCC2(CC1)CCN(C(=O)CC1=CN=CC3=CC=CC=C13)C2,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506c00>,5.068144,0.21477671,4.6471815,5.489106
+19,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CS(C)(=O)=O)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506c70>,5.843102,0.31536043,5.2249956,6.4612083
+20,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CC#N)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506ce0>,6.6370654,0.2923069,6.064144,7.2099867
+21,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCOCC1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506d50>,7.5604467,0.35276046,6.869036,8.251858
+22,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CNN=C1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506dc0>,7.2796364,0.33470914,6.6236067,7.935666
+23,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCOCC1)C(=O)C1=CC=C(Cl)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506e30>,7.5419817,0.29855818,6.9568076,8.127155
+24,CNC(=O)[C@@H](C)N1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506ea0>,7.0544,0.32229304,6.4227057,7.6860943
+25,CO[C@@H](C)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506f10>,7.0192175,0.2643278,6.501135,7.5373
+26,CNC(=O)[C@@H](C)N1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506f80>,7.014563,0.2870236,6.451997,7.5771294
+27,CNCCN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa506ff0>,7.183071,0.25207216,6.6890097,7.6771326
+28,CO[C@@H](C)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507060>,7.0353374,0.29706475,6.4530907,7.617584
+29,C=CC(=O)N1CCCC2=C1C=CC=C2N(CC1=CC=CC(Cl)=C1)C(=O)CC1=CN=CC2=CC=CC=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5070d0>,5.71912,0.31414247,5.1034007,6.3348393
+30,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=CC=CC=C2)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507140>,6.875616,0.2908094,6.3056297,7.4456024
+31,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=CN(C)N=C2)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5071b0>,6.3911,0.33397853,5.736502,7.0456977
+32,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CC2=NNN=N2)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507220>,6.9578123,0.40781882,6.1584873,7.7571373
+33,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CNC=N1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507290>,7.1379786,0.36835682,6.4159994,7.8599577
+34,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CC=NN1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507300>,7.326183,0.38975176,6.562269,8.090096
+35,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NC=CN1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507370>,6.811537,0.36397234,6.098151,7.5249224
+36,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=CC=NC=N2)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5073e0>,6.890592,0.3485214,6.20749,7.573694
+37,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=CN=CC=N2)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507450>,6.5498195,0.34057078,5.882301,7.217338
+38,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CS(=O)(=O)N(C)C)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5074c0>,6.6710677,0.2746537,6.1327467,7.2093887
+39,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CS(=O)(=O)NC)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507530>,6.593392,0.319644,5.9668894,7.2198944
+40,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CC(O)=NC=N1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5075a0>,7.5051484,0.35715622,6.8051224,8.205174
+41,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NNC=N1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507610>,6.603576,0.35943756,5.8990784,7.308074
+42,CN1C=CC(CN2C[C@]3(CCN(C4=CN=CC5=CC=CC=C45)C3=O)C3=CC(Cl)=CC=C3C2=O)=N1 |o1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507680>,5.811787,0.38864684,5.0500393,6.573535
+43,CN1C=CC(CN2C[C@]3(CCN(C4=CN=CC5=CC=CC=C45)C3=O)C3=CC(Cl)=CC=C3C2=O)=N1 |o1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5076f0>,5.811787,0.38864684,5.0500393,6.573535
+44,CN1C=NC(CN2C[C@]3(CCN(C4=CN=CC5=CC=CC=C45)C3=O)C3=CC(Cl)=CC=C3C2=O)=N1 |o1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507760>,5.783166,0.3462159,5.104583,6.461749
+45,CN1C=NC(CN2C[C@]3(CCN(C4=CN=CC5=CC=CC=C45)C3=O)C3=CC(Cl)=CC=C3C2=O)=N1 |o1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5077d0>,5.783166,0.3462159,5.104583,6.461749
+46,CN1N=NC(CN2C[C@]3(CCN(C4=CN=CC5=CC=CC=C45)C3=O)C3=CC(Cl)=CC=C3C2=O)=N1 |o1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507840>,6.0969253,0.3908277,5.330903,6.8629475
+47,CN1N=NC(CN2C[C@]3(CCN(C4=CN=CC5=CC=CC=C45)C3=O)C3=CC(Cl)=CC=C3C2=O)=N1 |o1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5078b0>,6.0969253,0.3908277,5.330903,6.8629475
+48,CN1N=NN=C1CN1C[C@]2(CCN(C3=CN=CC4=CC=CC=C34)C2=O)C2=CC(Cl)=CC=C2C1=O |o1:9|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507920>,6.0915294,0.36317438,5.3797073,6.8033514
+49,CN1N=NN=C1CN1C[C@]2(CCN(C3=CN=CC4=CC=CC=C34)C2=O)C2=CC(Cl)=CC=C2C1=O |o1:9|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507990>,6.0915294,0.36317438,5.3797073,6.8033514
+50,CCN1N=CC=C1CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507a00>,7.366119,0.4179547,6.5469275,8.18531
+51,CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CN2C=CC=N2)C2=CC(Cl)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507a70>,6.2627287,0.35701525,5.5629787,6.9624786
+52,CNCCN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(F)=CC=C2C1=O,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507ae0>,7.21359,0.30579185,6.6142383,7.812942
+53,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CNN=N1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507b50>,7.72874,0.3137238,7.1138415,8.343639
+54,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CC=NN1C)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507bc0>,6.788585,0.34778374,6.106929,7.4702415
+55,C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=COC=N1)C(=O)C1=CC=C(F)C=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507c30>,6.857119,0.3507366,6.1696754,7.544563
+56,CC1=CN=C(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(F)=CC=C3C2=O)C=N1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507ca0>,7.1523147,0.3438548,6.478359,7.82627
+57,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=CN=C(C)S2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507d10>,6.7849426,0.39634565,6.0081053,7.56178
+58,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CS(=O)(=O)NC)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507d80>,6.561892,0.31119034,5.951959,7.171825
+59,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CN2N=CN=N2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507df0>,6.2457457,0.3705301,5.5195065,6.971985
+60,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC#N)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507e60>,7.0791087,0.3054063,6.4805126,7.677705
+61,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NC=CN1C)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507ed0>,6.4471498,0.33874556,5.7832084,7.111091
+62,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NN=NN1C)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa507f40>,6.6739626,0.33568427,6.0160213,7.331904
+63,"CC1=NOC(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(F)=CC=C3C2=O)=C1 |a:8,23|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c040>,6.7536106,0.35741913,6.053069,7.454152
+64,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=C(C)N=CS2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c0b0>,6.377071,0.3481676,5.6946626,7.059479
+65,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=CN=CS2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c120>,6.725445,0.38637796,5.968144,7.4827456
+66,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCN(S(C)(=O)=O)CC1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c190>,7.3301826,0.31622997,6.710372,7.949993
+67,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CCN1CCOCC1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=NC=CC=N1 |a:9,34|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c200>,7.373387,0.33369532,6.719344,8.02743
+68,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=CC=C(Cl)N=N2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c270>,6.907482,0.38049737,6.1617074,7.653257
+69,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CC=NN=C1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c2e0>,6.7339535,0.35103658,6.045922,7.421985
+70,"CC1=NC=C(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(F)=CC=C3C2=O)O1 |a:8,23|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c350>,6.9242744,0.33794942,6.2618937,7.586655
+71,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCCC1=O)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c3c0>,7.8320756,0.2759209,7.2912707,8.372881
+72,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCS(=O)(=O)CC1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c430>,7.6756783,0.29767162,7.092242,8.259114
+73,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NC=CO1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c4a0>,6.7000484,0.3338702,6.045663,7.354434
+74,"CC1=NC(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(F)=CC=C3C2=O)=CO1 |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c510>,7.04303,0.33643633,6.3836145,7.702445
+75,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NN(C)N=C1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c580>,6.910475,0.3507341,6.223036,7.5979137
+76,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NN(C)N=N1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c5f0>,6.691128,0.40590048,5.8955626,7.486693
+77,"CC1=NC(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(F)=CC=C3C2=O)=NO1 |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c660>,6.740461,0.38954797,5.976947,7.503975
+78,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NOC=C1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c6d0>,7.6852226,0.3859004,6.928858,8.441587
+79,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NN(C)C=N1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c740>,6.3612514,0.37259144,5.630972,7.091531
+80,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NN(C)C=C1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c7b0>,6.417686,0.3315776,5.7677937,7.0675783
+81,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CN(C)N=C1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c820>,6.5163097,0.38436016,5.762964,7.2696557
+82,"COC[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CC=NN1)C(=O)C1=CC=C(Cl)C=C12 |a:3,18|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c890>,7.369806,0.3741623,6.636448,8.103164
+83,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CC=NC=N1)C(=O)C1=CC=C(F)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c900>,7.4633455,0.35056943,6.7762294,8.150461
+84,"COC[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=CNC=N1)C(=O)C1=CC=C(Cl)C=C12 |a:3,18|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c970>,7.1877794,0.3676809,6.467125,7.908434
+85,"COC[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC1=NC=CN1)C(=O)C1=CC=C(Cl)C=C12 |a:3,18|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55c9e0>,6.8585753,0.41911557,6.037109,7.680042
+86,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CCl)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ca50>,6.5053473,0.2664574,5.983091,7.0276036
+87,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCC3(COC3)C1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cac0>,7.4548173,0.30412933,6.8587236,8.050911
+88,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=NC=NC=N2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cb30>,6.5713043,0.3058955,5.9717493,7.1708593
+89,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CNC2=NN=CS2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cba0>,7.0361543,0.35451093,6.341313,7.7309957
+90,"C[C@@H]1COC[C@@H](C)N1CCN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(Cl)=CC=C2C1=O |a:1,5,12,27|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cc10>,7.5691347,0.30417147,6.9729586,8.165311
+91,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCOC(C)(C)C1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cc80>,7.764633,0.35608968,7.0666976,8.462569
+92,"C[C@H]1COC[C@@H](C)N1CCN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2C)C2=CC(Cl)=CC=C2C1=O |a:1,5,12,27|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ccf0>,7.5691347,0.30417147,6.9729586,8.165311
+93,"C[C@H]1CN(CCN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(Cl)=CC=C3C2=O)CCO1 |a:1,8,23|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cd60>,7.411179,0.35097387,6.7232704,8.099088
+94,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2COC2CCC2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cdd0>,6.3963075,0.30402568,5.800417,6.992198
+95,"C[C@@H]1CN(CCN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(Cl)=CC=C3C2=O)[C@H](C)CO1 |a:1,8,23,34|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ce40>,7.1920123,0.34750447,6.5109034,7.8731213
+96,"C[C@H]1CN(CCN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(Cl)=CC=C3C2=O)[C@@H](C)CO1 |a:1,8,23,34|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ceb0>,7.1920123,0.34750447,6.5109034,7.8731213
+97,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CC(F)(F)C1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cf20>,7.8536854,0.27850232,7.307821,8.3995495
+98,"C[C@H]1CN(CCN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(Cl)=CC=C3C2=O)C[C@H](C)O1 |a:1,8,23,35|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55cf90>,7.412426,0.37443843,6.678527,8.146325
+99,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1C[C@H]3CC[C@H](C1)O3)C(=O)C1=CC=C(Cl)C=C12 |a:1,16,&1:23,&2:26|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d000>,7.9831867,0.32517776,7.3458385,8.620535
+100,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1C[C@@H]3COC[C@@H]3C1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16,23,27|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d070>,7.5265546,0.30666846,6.9254847,8.1276245
+101,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1C[C@H]3C[C@@H]1CO3)C(=O)C1=CC=C(Cl)C=C12 |a:1,16,23,25|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d0e0>,7.824518,0.38491637,7.070082,8.578955
+102,"C[C@@H]1CN(CCN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(Cl)=CC=C3C2=O)CCO1 |a:1,8,23|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d150>,7.411179,0.35097387,6.7232704,8.099088
+103,"C[C@@H]1CN(CCN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(Cl)=CC=C3C2=O)C[C@@H](C)O1 |a:1,8,23,35|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d1c0>,7.412426,0.37443843,6.678527,8.146325
+104,"CNCCN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2COCC2CC2)C2=CC(Cl)=CC=C2C1=O |a:6,21|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d230>,7.0572853,0.32948828,6.4114885,7.703082
+105,"CNCCN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2CS(=O)(=O)N(C)C)C2=CC(Cl)=CC=C2C1=O |a:6,21|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d2a0>,7.478943,0.3081253,6.875017,8.082869
+106,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(C1CCNCC1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d310>,7.277124,0.30375004,6.6817737,7.872474
+107,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CC1COC1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=CC=NC=N1 |a:9,31|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d380>,7.1758757,0.3880649,6.4152684,7.936483
+108,"CC1=NN=C(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3CNC3=CC=NC=N3)C3=CC(Cl)=CC=C3C2=O)O1 |a:8,23|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d3f0>,7.338834,0.39974225,6.555339,8.122329
+109,C=CC(=O)N1CCCC2=CC=C(N(CC3=CC=CC(Cl)=C3)C(=O)CC3=CN=CC4=CC=CC=C34)C=C21,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d460>,7.194727,0.28128275,6.6434126,7.7460413
+110,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2N)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d4d0>,6.3074512,0.3315367,5.6576395,6.957263
+111,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CC1=CC=NN=C1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=CC=NC=N1 |a:9,33|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d540>,7.196776,0.4395492,6.3352594,8.058292
+112,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2COCC2CC2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d5b0>,6.3244395,0.28017002,5.775306,6.873573
+113,"C[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CCN1CCC1)C(=O)C1=CC=C(Cl)C=C12 |a:1,16|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d620>,7.7749805,0.30574632,7.175718,8.374244
+114,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2NC(C)C)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d690>,6.5906525,0.31945196,5.9645267,7.2167783
+115,"C[C@H]1CN(CCN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3C)C3=CC(Cl)=CC=C3C2=O)C[C@@H](C)O1 |a:1,8,23,35|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d700>,7.412426,0.37443843,6.678527,8.146325
+116,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2NC)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d770>,6.267968,0.35021618,5.5815444,6.954392
+117,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2NS(C)(=O)=O)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d7e0>,5.8958845,0.38302776,5.14515,6.646619
+118,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2NCC2CC2)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d850>,5.823879,0.36325315,5.1119027,6.535855
+119,"COC(=O)N[C@H](C(=O)N1C[C@H](C(F)(F)F)C[C@H]1C(=O)N[C@H](C#N)C[C@@H]1CCNC1=O)C(C)(C)C |a:5,10,16,24,o1:20|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d8c0>,6.5204144,0.7411873,5.067687,7.9731417
+120,"COC(=O)N[C@H](C(=O)N1C[C@H](C(F)(F)F)C[C@H]1C(=O)N[C@H](C#N)C[C@@H]1CCNC1=O)C(C)(C)C |a:5,10,16,24,o1:20|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d930>,6.5204144,0.7411873,5.067687,7.9731417
+121,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CC1=NN=CO1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=NC=NC=N1 |a:9,32|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55d9a0>,6.9318624,0.35417876,6.237672,7.626053
+122,"CCO[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC(=O)NC)C(=O)C1=CC=C(Cl)C=C12 |&1:3,18|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55da10>,6.384756,0.2650576,5.865243,6.904269
+123,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CC1=CC=NN=C1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=NN=CS1 |a:9,33|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55da80>,7.326781,0.4399751,6.4644294,8.189132
+124,"CNC(=O)CN1C[C@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@H]2OCC2CC2)C2=CC(Cl)=CC=C2C1=O |&1:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55daf0>,6.06321,0.3202143,5.43559,6.69083
+125,"COC(=O)N[C@H](C(=O)N1C[C@H](C(F)(F)F)C[C@H]1C(=O)N[C@H](C#N)C[C@@H]1CCNC1=O)C(C)(C)C |a:5,10,16,20,24|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55db60>,6.5204144,0.7411873,5.067687,7.9731417
+126,"CNC(=O)CN1C[C@@]2(C(=O)N(C3=CN=CC4=CC=CC=C34)C[C@@H]2NC(C)=O)C2=CC(Cl)=CC=C2C1=O |a:7,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55dbd0>,6.055509,0.3256314,5.4172716,6.6937466
+127,"CCS(=O)(=O)N[C@H]1CN(C2=CN=CC3=CC=CC=C23)C(=O)[C@@]12CN(CC(=O)NC)C(=O)C1=CC=C(Cl)C=C12 |a:6,21|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55dc40>,6.600267,0.36381692,5.8871856,7.3133483
+128,CC1=NN=C(SC2=CC(C3=CC=CC=C3)=NC3=NC=NN23)N1C,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55dcb0>,2.9408567,1.7156876,-0.4218912,6.3036046
+129,CC1=NC2=NC=NN2C(SC2=NN=C(C3=CC=C(Cl)C=C3)N2C)=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55dd20>,3.3519428,1.7151179,-0.009688377,6.713574
+130,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CC1CNC1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=NC=CS1 |a:9,31|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55dd90>,7.113532,0.42285478,6.2847366,7.9423275
+131,COC1=CC=C(N(CC2=CC=CC(Cl)=C2)C(=O)CC2=CC=CN=C2)C=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55de00>,5.3870497,0.31371823,4.772162,6.0019374
+132,C[C@H]1COCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55de70>,4.3082466,0.23617953,3.8453348,4.7711587
+133,C[C@H]1CCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55dee0>,4.472369,0.19339629,4.0933123,4.851426
+134,O=C(CC1=CN=CC2=CC=CC=C12)N1CCOCC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55df50>,4.5743785,0.15335283,4.273807,4.87495
+135,C[C@H]1COCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55dfc0>,4.447232,0.2343747,3.9878573,4.906606
+136,C[C@H]1CCCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e030>,4.7422895,0.20487304,4.3407383,5.143841
+137,C[C@H]1CCCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e0a0>,4.804356,0.18960202,4.432736,5.1759763
+138,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(C1)N=CN2,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e110>,4.44829,0.33243346,3.7967203,5.099859
+139,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(C=CS2)C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e180>,5.258662,0.2207515,4.8259892,5.691335
+140,C[C@H]1COCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e1f0>,4.6898537,0.24727964,4.2051854,5.174522
+141,C[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e260>,5.263271,0.16590309,4.938101,5.588441
+142,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCCCC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e2d0>,4.628431,0.14246476,4.3492,4.907662
+143,COC1=CC=C(N(CC2=CC=CC(Cl)=C2)C(=O)CC2=CN=CC(C)=C2)C=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e340>,5.6113906,0.31538588,4.993234,6.229547
+144,O=C(CC1=CN=CC2=CC=CC=C12)N(CC1=CC=CC(Cl)=C1)C1=CC=C2C=CNC2=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e3b0>,5.3655324,0.29212204,4.792973,5.9380918
+145,C[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e420>,4.618147,0.18201783,4.261392,4.9749017
+146,C[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e490>,4.6570807,0.2027255,4.2597384,5.054423
+147,C[C@H]1CN(C(=O)CC2=CN=CC3=CC=CC=C23)CCO1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e500>,4.234357,0.22057167,3.8020363,4.6666775
+148,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e570>,4.7059164,0.1636702,4.385123,5.02671
+149,O=C(CC1=CN=CC2=CC=CC=C12)N1CCN2N=CC=C2C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e5e0>,4.478331,0.24603388,3.9961047,4.9605575
+150,CC1=NC2=CC=C(N(CC3=CC=CC(Cl)=C3)C(=O)CC3=CN=CC4=CC=CC=C34)C=C2N1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e650>,5.80848,0.33643302,5.149071,6.4678884
+151,C[C@H]1C2=C(CCN1C(=O)CC1=CN=CC3=CC=CC=C13)SC=C2 |o1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e6c0>,5.6937428,0.27735913,5.150119,6.2373667
+152,C[C@H]1C2=C(CCN1C(=O)CC1=CN=CC3=CC=CC=C13)SC=C2 |o1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e730>,5.6937428,0.27735913,5.150119,6.2373667
+153,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(Cl)C=CC=C2C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e7a0>,5.358772,0.25228184,4.8642993,5.8532443
+154,C[C@H]1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e810>,4.776478,0.17123531,4.4408565,5.112099
+155,C[C@H]1CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e880>,4.425176,0.20053111,4.032135,4.8182173
+156,COC1=CC=C(N(CC2=CC=CC(Cl)=C2)C(=O)CC2=CN=CC=C2C)C=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e8f0>,5.3692584,0.29727647,4.7865963,5.9519205
+157,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCN2N=CC=C2C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e960>,4.422222,0.2756448,3.8819582,4.962486
+158,CC[C@H]1C2=C(CCN1C(=O)CC1=CN=CC3=CC=CC=C13)SC=C2 |o1:2|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55e9d0>,6.3709626,0.27699813,5.8280463,6.913879
+159,CC[C@H]1C2=C(CCN1C(=O)CC1=CN=CC3=CC=CC=C13)SC=C2 |o1:2|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ea40>,6.3709626,0.27699813,5.8280463,6.913879
+160,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55eab0>,4.543231,0.13305615,4.282441,4.804021
+161,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCOCC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55eb20>,4.5652065,0.1777435,4.2168293,4.9135838
+162,CC1=NC2=C(CCN(C(=O)CC3=CN=CC4=CC=CC=C34)C2)N1C,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55eb90>,4.872399,0.41383985,4.0612726,5.683525
+163,CN1C=NC2=C1CCN(C(=O)CC1=CN=CC3=CC=CC=C13)C2,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ec00>,5.1600976,0.29825974,4.5755086,5.7446866
+164,CC1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ec70>,5.162984,0.15232629,4.864424,5.4615436
+165,CC1CN(C(=O)CC2=CN=CC3=CC=CC=C23)C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ece0>,4.8194714,0.20173694,4.424067,5.2148757
+166,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCCC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ed50>,4.628431,0.14246476,4.3492,4.907662
+167,C[C@H]1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CCO1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55edc0>,4.3305306,0.23370028,3.872478,4.7885833
+168,C[C@H]1CN(C(=O)CC2=CN=CC3=CC=CC=C23)CCCO1 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ee30>,4.4367676,0.20963363,4.0258856,4.8476496
+169,C[C@H]1CCOCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55eea0>,4.5582075,0.2406906,4.086454,5.029961
+170,O=C(CC1=CN=CC2=CC=CC=C12)N(CC1=CC=CC(Cl)=C1)C1=CC=C2N=CNC2=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ef10>,5.1977344,0.35398346,4.5039268,5.891542
+171,CC(C)CC1(C)CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ef80>,5.1270757,0.27820823,4.5817876,5.6723638
+172,CC(F)(F)C1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55eff0>,5.8020153,0.2293413,5.352506,6.2515244
+173,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC(C(F)F)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f060>,4.9288573,0.22747311,4.48301,5.374705
+174,"CC1=NC=CC(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3CNC3=NN=CS3)C3=CC(Cl)=CC=C3C2=O)=N1 |a:9,24|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f0d0>,7.516768,0.45096233,6.6328816,8.400654
+175,CC(C)C1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f140>,5.211287,0.19958055,4.8201094,5.6024647
+176,"C[C@H]1C[C@@H](C)N(C(=O)CC2=CN=CC3=CC=CC=C23)[C@@H](C)C1 |a:1,3,19|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f1b0>,4.820108,0.24139152,4.3469806,5.2932353
+177,"CC1=NC=CC(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3CNC3=NN=C(C)O3)C3=CC(Cl)=CC=C3C2=O)=N1 |a:9,24|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f220>,7.127132,0.42875117,6.2867794,7.9674845
+178,CCC1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f290>,4.960683,0.19125713,4.585819,5.335547
+179,"CC1=NC=CC(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3CNC3=NN=CO3)C3=CC(Cl)=CC=C3C2=O)=N1 |a:9,24|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f300>,7.5285926,0.41669744,6.7118654,8.34532
+180,CC1(C)CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f370>,4.8658724,0.18441297,4.504423,5.2273216
+181,"C[C@@H]1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)[C@H](C)C1 |a:1,18|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f3e0>,5.024746,0.1939746,4.6445556,5.4049363
+182,"CC1=NC=CC(CN2C[C@@]3(C(=O)N(C4=CN=CC5=CC=CC=C45)C[C@@H]3CNC3=NN=C(C(F)(F)F)O3)C3=CC(Cl)=CC=C3C2=O)=N1 |a:9,24|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f450>,7.585516,0.49383882,6.617592,8.55344
+183,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC(C(F)(F)F)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f4c0>,5.6839495,0.1977728,5.2963147,6.071584
+184,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CC1=NNC=C1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=NN=CS1 |a:9,32|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f530>,8.0412445,0.4426115,7.173726,8.908763
+185,"O=C1C2=CC=C(Cl)C=C2[C@@]2(CN1CC1=NNC=C1)C(=O)N(C1=CN=CC3=CC=CC=C13)C[C@@H]2CNC1=NN=C(C(F)(F)F)O1 |a:9,32|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f5a0>,8.09948,0.4403675,7.2363596,8.9626
+186,COCC1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f610>,4.6114182,0.21116094,4.1975427,5.025294
+187,CC(C)C1(F)CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f680>,5.0817213,0.22483313,4.6410484,5.522394
+188,"CCC1=CC=C([C@H]2C[C@H](C)CCN2C(=O)CC2=CN=CC3=CC=CC=C23)O1 |o1:6,8|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f6f0>,5.7554693,0.3268616,5.1148205,6.396118
+189,CC1=CN=CC(CC(=O)N2CCC3=C(C=CS3)C2)=C1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f760>,4.9943767,0.33263257,4.342417,5.6463366
+190,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(C1)N=CS2,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f7d0>,4.910003,0.35074186,4.222549,5.5974574
+191,CC(C)C1(C)CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f840>,5.419523,0.2226644,4.9831004,5.855945
+192,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(C=CS2)C12CCC2,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f8b0>,5.014811,0.3459754,4.3366995,5.6929226
+193,CC1(CC(F)(F)F)CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f920>,5.9191475,0.30100325,5.329181,6.509114
+194,CC(C)[C@H]1C2=C(CCN1C(=O)CC1=CN=CC3=CC=CC=C13)SC=C2 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55f990>,6.151917,0.23758772,5.686245,6.617589
+195,"CC(C)CNS(=O)(=O)OCC(=O)N1CCN(CC2=CC=CC(Cl)=C2)[C@H]2CS(=O)(=O)C[C@H]21 |&1:24,30|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fa00>,5.9910536,0.40149647,5.2041206,6.7779865
+196,CC(C)CC1(C(F)(F)F)CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fa70>,5.1008077,0.3198062,4.4739876,5.7276278
+197,"CC(C)NS(=O)(=O)OCC(=O)N1CCN(CC2=CC=CC(Cl)=C2)[C@H]2CS(=O)(=O)C[C@H]21 |&1:23,29|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fae0>,5.904148,0.39563692,5.1287,6.6795964
+198,CNC(=O)C[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fb50>,4.608049,0.21682058,4.1830807,5.033017
+199,COC[C@H]1C2=C(CCN1C(=O)CC1=CN=CC3=CC=CC=C13)SC=C2 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fbc0>,6.0589857,0.25823367,5.552848,6.5651236
+200,COC[C@H]1C2=C(CCN1C(=O)CC1=CN=CC3=CC=CC=C13)SC=C2 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fc30>,6.0589857,0.25823358,5.552848,6.5651236
+201,"CCNS(=O)(=O)OCC(=O)N1CCN(CC2=CC=CC(Cl)=C2)[C@H]2CS(=O)(=O)C[C@H]21 |&1:22,28|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fca0>,5.70375,0.37485904,4.9690266,6.4384737
+202,"O=C(CC1=CN=CC2=CC=CC=C12)N1CC[C@@H]2CCCC[C@@H]2C1 |a:16,21|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fd10>,5.554496,0.1825952,5.196609,5.9123826
+203,O=C(O)C[C@@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fd80>,4.166827,0.24366285,3.689248,4.6444063
+204,NC(=O)O[C@@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fdf0>,4.205246,0.26493332,3.6859767,4.7245154
+205,COC(=O)[C@@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fe60>,4.736505,0.24919564,4.2480817,5.2249284
+206,O=C(O)C[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |a:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55fed0>,4.3327236,0.27110168,3.8013644,4.864083
+207,CN(C)C(=O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa55ff40>,4.7502785,0.25880635,4.243018,5.257539
+208,COC(=O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560040>,4.736505,0.24919564,4.2480817,5.2249284
+209,CNC(=O)C[C@@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |a:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5600b0>,4.867716,0.25909835,4.3598833,5.3755484
+210,CN(C)C(=O)CN(CC1=CC=CC(Cl)=C1)C(=O)CC1=CN=CC2=CC=CC=C12,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560120>,5.4571223,0.29533342,4.8782687,6.035976
+211,CNC(=O)[C@@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560190>,4.538072,0.23169394,4.083952,4.9921923
+212,CC(C)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560200>,4.8945503,0.21120957,4.4805794,5.3085213
+213,CC(C)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560270>,4.8945503,0.21120957,4.4805794,5.3085213
+214,C[C@H](C(=O)N1CCC2=C(C=CS2)C1)C1=CN=CC2=CC=CC=C12 |o1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5602e0>,4.4023404,0.3244288,3.76646,5.038221
+215,C[C@H](C(=O)N1CCC2=C(C=CS2)C1)C1=CN=CC2=CC=CC=C12 |o1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560350>,4.4023404,0.3244288,3.76646,5.038221
+216,C[C@H]1C2=CC=CN=C2CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5603c0>,4.597829,0.26575735,4.0769444,5.1187134
+217,C[C@H]1C2=CC=CN=C2CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560430>,4.597829,0.26575735,4.0769444,5.1187134
+218,"C[C@H]1C[C@H](C(C)(F)F)CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1,3|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5604a0>,5.3961535,0.29313976,4.8215995,5.9707074
+219,C=CC[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560510>,4.4775796,0.21299818,4.060103,4.8950562
+220,C=CC[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560580>,4.4775796,0.21299818,4.060103,4.8950562
+221,CC[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:2|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5605f0>,4.8051047,0.21179156,4.389993,5.2202163
+222,CC[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:2|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560660>,4.8051047,0.21179156,4.389993,5.2202163
+223,O=C(O)C[C@@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |a:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5606d0>,4.3327236,0.27110168,3.8013644,4.864083
+224,NC(=O)[C@@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560740>,4.350248,0.24604285,3.8680038,4.832492
+225,CC(C)(O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5607b0>,5.0171437,0.21371315,4.598266,5.4360213
+226,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(C=CS2)[C@H]1C1=CC=CC=C1 |o1:21|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560820>,5.7101054,0.27915776,5.162956,6.2572546
+227,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(C=CS2)[C@H]1C1=CC=CC=C1 |o1:21|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560890>,5.7101054,0.27915776,5.162956,6.2572546
+228,CC(C)C1=CC=C([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)C=C1 |&1:7|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560900>,5.0934105,0.26323652,4.577467,5.609354
+229,COC[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560970>,4.607884,0.19458154,4.2265043,4.9892635
+230,COC[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5609e0>,4.607884,0.19458154,4.2265043,4.9892635
+231,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H](CF)C1 |o1:17|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560a50>,4.7177434,0.20842971,4.3092213,5.1262655
+232,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H](CF)C1 |o1:17|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560ac0>,4.7177434,0.20842971,4.3092213,5.1262655
+233,CCC1=NOC([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)=C1 |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560b30>,5.3681583,0.3307516,4.7198853,6.0164313
+234,COCC1(CC2CC2)CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC1,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560ba0>,4.6064043,0.3165765,3.9859142,5.2268944
+235,CC1=CC=CC([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)=C1C |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560c10>,5.026824,0.30813143,4.4228864,5.6307616
+236,COC[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560c80>,4.45513,0.21629186,4.031198,4.879062
+237,COC[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560cf0>,4.45513,0.21629186,4.031198,4.879062
+238,COCC1=CC=CC([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)=C1 |&1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560d60>,5.0126295,0.27737424,4.468976,5.556283
+239,C#CC1=CC=C([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)C=C1 |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560dd0>,4.344709,0.27844784,3.7989511,4.8904667
+240,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=CC=C1F |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560e40>,5.0845594,0.25676766,4.581295,5.587824
+241,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H](CCF)C1 |o1:17|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560eb0>,4.3552155,0.24260187,3.879716,4.830715
+242,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H](CCF)C1 |o1:17|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560f20>,4.3552155,0.24260187,3.879716,4.830715
+243,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=C(F)C=C1F |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa560f90>,5.2258925,0.3101406,4.618017,5.833768
+244,CC1=NOC([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)=C1 |&1:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561000>,4.8450084,0.26910707,4.3175583,5.3724585
+245,COC1=CC=CC=C1[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561070>,5.3917146,0.2327128,4.9355974,5.8478317
+246,CN1C=NC=C1[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5610e0>,4.8004446,0.32615754,4.1611757,5.4397135
+247,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=NN=CN1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561150>,3.997399,0.32241693,3.3654618,4.6293364
+248,CN1C=CC=C1[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5611c0>,4.410282,0.3226039,3.7779784,5.042586
+249,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=NC=CS1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561230>,4.223652,0.25077817,3.7321267,4.715177
+250,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC(Cl)=CC=C1F |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5612a0>,5.90397,0.2258488,5.461306,6.3466334
+251,CC(C)CC[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561310>,5.1183457,0.27599692,4.5773916,5.6593
+252,CC(C)CC[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561380>,5.1183457,0.27599692,4.5773916,5.6593
+253,"C[C@H]1C[C@H](C)CN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:1,3|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5613f0>,4.822721,0.22824237,4.3753657,5.2700763
+254,CC(C)[C@]1(O)CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |&1:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561460>,4.7658534,0.22470494,4.325432,5.206275
+255,COC1=CC=C([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)C=C1F |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5614d0>,5.5938015,0.33274323,4.9416246,6.2459784
+256,COC1=CC=CC=C1[C@H]1CC(C)(C)CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:8|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561540>,5.3374963,0.30213374,4.745314,5.9296784
+257,"C[C@H]1C[C@@H](C(C)(F)F)CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:1,3|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5615b0>,5.3961535,0.29313976,4.8215995,5.9707074
+258,CC(C)(O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:4|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561620>,5.0171437,0.21371315,4.598266,5.4360213
+259,C[C@H]1CCN(C(=O)CC2=CN=CC3=CC=CC=C23)CC2=C1SC=C2 |&1:1|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561690>,5.729961,0.29854113,5.14482,6.3151016
+260,N#CC[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |a:3|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561700>,4.452136,0.22853683,4.004204,4.9000683
+261,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1CCC1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561770>,4.8906484,0.19645947,4.5055876,5.275709
+262,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=C(F)C=CC=C1F |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5617e0>,4.748056,0.2863913,4.186729,5.309383
+263,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=NC2=CC=CC=C2O1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561850>,4.1332064,0.27178246,3.6005127,4.6659
+264,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=C(F)C(Cl)=C1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5618c0>,5.542553,0.29986596,4.954816,6.13029
+265,CC1=NNC([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)=C1 |&1:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561930>,4.617643,0.2645445,4.099136,5.13615
+266,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H](C2CCCC2)C1 |o1:17|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5619a0>,5.299366,0.1763926,4.9536366,5.6450953
+267,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H](C2CCCC2)C1 |o1:17|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561a10>,5.299366,0.1763926,4.9536366,5.6450953
+268,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=NNC=C1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561a80>,4.952888,0.28434652,4.395569,5.510207
+269,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=NOC=C1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561af0>,4.9996657,0.3433601,4.32668,5.6726513
+270,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=CC(F)=C1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561b60>,5.5641575,0.22350468,5.126088,6.002227
+271,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=C(Cl)C=C1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561bd0>,5.159281,0.21514475,4.737597,5.5809646
+272,CC1=CC=C([C@H]2CCCCN2C(=O)CC2=CN=CC3=CC=CC=C23)C=C1 |&1:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561c40>,5.1124163,0.21295568,4.695023,5.5298095
+273,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=C(F)C=N1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561cb0>,4.8308964,0.27327958,4.2952685,5.366524
+274,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=NC=N1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561d20>,4.6847763,0.30635688,4.0843167,5.285236
+275,"C[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)[C@H]1C |o1:1,19|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561d90>,4.9076095,0.21389228,4.4883804,5.3268385
+276,O=C(CC1=CN=CC2=CC=CC=C12)N1CCC2=C(N=CS2)C12CCC2,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561e00>,4.6475086,0.41325378,3.837531,5.457486
+277,"C[C@H](O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:1,o2:3|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561e70>,4.244444,0.21423328,3.8245466,4.664341
+278,"C[C@H](O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:1,o2:3|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561ee0>,4.244444,0.21423328,3.8245466,4.664341
+279,"C[C@H](O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:1,o2:3|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561f50>,4.244444,0.21423328,3.8245466,4.664341
+280,"C[C@H](O)[C@H]1CCCN(C(=O)CC2=CN=CC3=CC=CC=C23)C1 |o1:1,o2:3|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa561fc0>,4.244444,0.21423328,3.8245466,4.664341
+281,CN1N=CC=C1[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562030>,4.4389,0.27324963,3.9033308,4.974469
+282,CC(=O)NC[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |a:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5620a0>,4.620995,0.24333774,4.144053,5.097937
+283,CN1N=NC=C1[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562110>,4.23527,0.28261724,3.6813402,4.7892
+284,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CC=C(Cl)C=C1F |a:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562180>,5.628826,0.28408206,5.0720253,6.185627
+285,CC(=O)NC[C@@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |a:5|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5621f0>,4.620995,0.24333774,4.144053,5.097937
+286,"O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H]2CCCC[C@H]21 |o1:17,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562260>,4.84338,0.18996118,4.471056,5.215704
+287,"O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H]2CCCC[C@H]21 |o1:17,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5622d0>,4.84338,0.18996118,4.471056,5.215704
+288,CN1C=NN=C1[C@H]1CCCCN1C(=O)CC1=CN=CC2=CC=CC=C12 |&1:6|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562340>,4.3975334,0.32288677,3.7646754,5.0303917
+289,O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1C1=CSC=N1 |&1:18|,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5623b0>,4.0914555,0.29366428,3.5158734,4.6670375
+290,"O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1[C@H]1CCCO1 |o1:18,o2:19|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562420>,4.6188226,0.25974765,4.1097174,5.127928
+291,"O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1[C@H]1CCCO1 |o1:18,o2:19|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562490>,4.6188226,0.25974765,4.1097174,5.127928
+292,"O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1[C@H]1CCCO1 |o1:18,o2:19|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562500>,4.6188226,0.25974765,4.1097174,5.127928
+293,"O=C(CC1=CN=CC2=CC=CC=C12)N1CCCC[C@H]1[C@H]1CCCO1 |o1:18,o2:19|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562570>,4.6188226,0.25974765,4.1097174,5.127928
+294,"O=C(CC1=CN=CC2=CC=CC=C12)N1CCC[C@H]2CCCC[C@@H]21 |o1:17,22|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5625e0>,4.84338,0.18996118,4.471056,5.215704
+295,"COC1=CC=CC=C1[C@H]1C[C@H](C)CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:8,10|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa562650>,5.8457613,0.2625765,5.3311114,6.360411
+296,"COC1=CC=CC=C1[C@H]1C[C@H](C)CCN1C(=O)CC1=CN=CC2=CC=CC=C12 |o1:8,10|",<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7f40aa5626c0>,5.8457613,0.2625765,5.3311114,6.360411
