@@ -1,0 +1,33 @@
+{
+  "model_params": {
+    "fp_type": "morgan_rdkit",
+    "combined_morgan_radius": 3,
+    "combined_morgan_nBits": 512,
+    "combined_rdkit_maxPath": 7,
+    "combined_rdkit_nBits": 1024,
+    "num_hidden_layers": 3,
+    "hidden_dim_0": 256,
+    "hidden_dim_1": 1024,
+    "hidden_dim_2": 64,
+    "kl_weight": 0.00012738685067919273,
+    "lr": 0.006760471355107091,
+    "batch_size": 128,
+    "dropout_rate": 0.11158913307129721,
+    "prior_mu": 0.016414497909291597,
+    "prior_sigma": 0.10081683890700582,
+    "normalization": "layer"
+  },
+  "fingerprint_config": {
+    "type": "morgan_rdkit",
+    "morgan_radius": 3,
+    "morgan_nBits": 512,
+    "rdkit_maxPath": 7,
+    "rdkit_nBits": 1024
+  },
+  "best_cv_score": 0.45241190791130065,
+  "training_info": {
+    "cv_folds": 5,
+    "trained_on_all_data": true,
+    "final_epochs": 200
+  }
+}
